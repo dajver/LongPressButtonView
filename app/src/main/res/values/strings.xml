@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LongClickButtonView</string>
+
+    <string name="hold.to.end">Hold to the End</string>
+    <string name="you.ended.this.button">You ended this task</string>
+
+</resources>

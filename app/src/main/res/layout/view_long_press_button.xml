@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hold_to_end_button"
+    android:layout_width="@dimen/button_width"
+    android:layout_height="@dimen/button_height">
+
+    <project.dajver.com.longclickbuttonview.view.ButtonBackgroundView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/hold.to.end"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="24sp"/>
+
+</FrameLayout>

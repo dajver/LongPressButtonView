@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ring_width">2dp</dimen>
+    <dimen name="button_width">330dp</dimen>
+    <dimen name="button_height">94dp</dimen>
+</resources>
